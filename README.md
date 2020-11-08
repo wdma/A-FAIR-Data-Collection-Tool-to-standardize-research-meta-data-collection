@@ -35,7 +35,7 @@ Currently, the only browser with an extension to integrate Github into the Googl
 For the Github Assistant to recognize the ISA-Sheets repository, you must create a fork owned by your github account.
 
 3. **Create a blank Google Apps Script project:**
-Navigate to [script.google.come](https://script.google.com/) and select `New Project` from the top left.
+Navigate to [script.google.com](https://script.google.com/) and select `New Project` from the top left.
 Rename the project to whatever makes sense to you, e.g. ISA-Sheets.
 
 4. **Select the ISA-Sheets fork:**
